@@ -1,0 +1,7 @@
+C:\Users\hunte\source\repos\Peck_Unit4\bin\Debug\Peck_Unit4.exe.config
+C:\Users\hunte\source\repos\Peck_Unit4\bin\Debug\Peck_Unit4.exe
+C:\Users\hunte\source\repos\Peck_Unit4\bin\Debug\Peck_Unit4.pdb
+C:\Users\hunte\source\repos\Peck_Unit4\obj\Debug\Peck_Unit4.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\Peck_Unit4\obj\Debug\Peck_Unit4.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\Peck_Unit4\obj\Debug\Peck_Unit4.exe
+C:\Users\hunte\source\repos\Peck_Unit4\obj\Debug\Peck_Unit4.pdb
